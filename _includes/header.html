@@ -1,0 +1,38 @@
+<header class="site-header">
+		
+	<div class="site-title">
+  	<a href="{{ site.baseurl }}/">{{ site.title }}</a>
+  </div>
+  
+  <div class="site-subtitle">
+  	{{ site.subtitle }}
+  </div>
+
+	  <nav class="site-nav">
+	 		{% assign pages_list = site.pages | sort:"site-id" %}
+				<ul>
+	 			<li><a class="page-link" href="{{ site.baseurl }}/">home</a></li>
+	 	
+	     	{% for page in pages_list %}
+	     		{% if page.nav contains "top" %}
+	     			{% if page.title %}
+	     				<li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+	     			{% endif %}
+	     		{% endif %}
+	     	{% endfor %}
+	     </ul>
+		</nav>
+	  
+	  <hr id="search-bottom"/>
+	  
+		<div class="search">
+			<input type="text" class="searchbar" id="searchbar" placeholder="search" name="search" ></input>
+			<input type="submit" class="button button-search" value="GO"></input>
+		</div>
+
+  <hr id="search-top"/>
+
+</header>
+
+				
+					

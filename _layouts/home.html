@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+  
+
+<div class="postfeed">
+
+	{% for post in paginator.posts %}
+	
+		<div class="entry entry-home">
+			
+			<header class="header-entry">
+				<h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+				<div class="date"><hr />{{ post.date | date: "%-d. %b %Y"}}<hr /></div>
+			</header>
+			
+		
+			<article class="content-entry">{{ post.excerpt }}
+		
+		
+				<a href="{{ post.url }}">
+					<div class="or-spacer"><span><div class="i">more</div></span></div>			
+					<div class="or-spacer"><div class="mask"></div></div>	
+				</a>
+			</article>
+			
+		</div>
+			
+	{% endfor %}
+	
+	<div class="pagination">
+		
+		{% if paginator.previous_page %}
+			<div class="left">
+				<a href="{{ paginator.previous_page_path }}" class="button-pagination button">back</a>
+			</div>
+		
+		{% else %}
+			<div class="left">
+				<span class="button button-disabled button-pagination">back</span>
+			</div>
+	
+		{% endif %}
+	
+		
+		{% if paginator.next_page %}
+			<div class="right">
+				<a href="{{ paginator.next_page_path }}" class="button-pagination button">next</a>
+			</div>
+			
+		{% else %}
+			<div class="right">
+				<span class="button button-disabled button-pagination">next</span>  
+			</div>
+		{% endif %}
+
+	</div>
+</div>

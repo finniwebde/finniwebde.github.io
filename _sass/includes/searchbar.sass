@@ -1,0 +1,44 @@
+.search
+	font-size: 16px
+
+.button-search
+	display: none
+	cursor: pointer
+	font-size: 1.5em
+	width: 1.7em
+	padding: .35em 0 .15em 0
+	-webkit-appearance: none
+	outline: none
+
+.searchbar
+	padding: .35em 0 .15em .5em
+	display: inline-block
+	border: 1px solid $Color-default-alternative
+	-moz-border-radius: 90px
+	-webkit-border-radius: 90px
+	border-radius: 90px
+	
+	-webkit-transition: all 0.7s ease 0s
+	-moz-transition: all 0.7s ease 0s
+	-o-transition: all 0.7s ease 0s
+	transition: all 0.7s ease 0s
+	outline: none
+	-webkit-appearance: none
+	
+	width: 4.5em
+	font-size: 1.5em
+	font-family: $Font-theme
+	color: $Color-default
+	
+	&:focus
+		width: 75%
+		color: $Color-active
+		
+		
+	&:focus + .button-search
+		display: inline
+
+
+	
+	
+	

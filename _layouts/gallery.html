@@ -1,0 +1,29 @@
+---
+title: the first gallery page
+layout: default
+--- 
+
+<div class="galleries page">
+	
+	{% for gallery in site.data.galleries %}
+	  	
+	  	<div class="album">
+		    <header class="header-page">
+		    <h2 class="title">{{ gallery.title }}</h2>
+		    </header>
+			  
+			  <div class="thumb"> 
+			    {% for image in gallery.images %}
+			     <div class="img-container">
+					    <a href="{{ gallery.path }}{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+					      <div class="img-sizer"><img src="{{ gallery.path }}{{ image.thumb }}"></div>
+					    </a>
+				    </div> 
+			    {% endfor %}
+			   </div> 
+		   </div>
+	{% endfor %}
+	
+</div>
+
+

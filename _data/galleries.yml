@@ -1,0 +1,31 @@
+- id: g1
+  title: Eli & Mickey
+  path: /assets/gallery/gallery1/
+  images:
+  - name: image-1.jpg
+    thumb: thumb-1.jpg
+    text:
+  - name: image-2.jpg
+    thumb: thumb-2.jpg
+    text:
+  - name: image-3.jpg
+    thumb: thumb-3.jpg
+    text:
+  - name: image-4.jpg
+    thumb: thumb-4.jpg
+    text:
+  - name: image-5.jpg
+    thumb: thumb-5.jpg
+    text:
+  - name: image-6.jpg
+    thumb: thumb-6.jpg
+    text:
+     
+     
+- id: g2
+  title: Bubble
+  path: /assets/gallery/gallery1/
+  images:
+  - name: image-1.jpg
+    thumb: thumb-1.jpg
+    text:

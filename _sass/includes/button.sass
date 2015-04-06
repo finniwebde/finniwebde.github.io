@@ -1,0 +1,31 @@
+.button	
+	background: white
+	display: inline-block
+	border: 1px solid 
+	padding: .35em 0 .15em 0
+	-moz-border-radius: 90px
+	-webkit-border-radius: 90px
+	border-radius: 90px
+	
+	border-color: $Color-default-alternative
+	color: $Color-default
+	font-family: $Font-theme
+	
+	&:hover
+		border-color: $Color-hover
+		color: $Color-hover
+		box-shadow: 0 0 2px #999
+	&:active
+		border-color: $Color-active
+		color: $Color-active
+		box-shadow: inset 0 0 2px #999
+			
+.button-disabled, .button-disabled:hover
+	//display: none
+	border-color: $Color-button-disabled
+	color: $Color-button-disabled
+	box-shadow: 0 0 0
+	cursor: default
+
+.button-pagination
+	width: 3em
