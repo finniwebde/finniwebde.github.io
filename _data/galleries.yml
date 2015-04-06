@@ -1,31 +1,206 @@
-- id: g1
-  title: Eli & Mickey
-  path: /assets/gallery/gallery1/
+- id: advent_spiral
+  title: Advent Spirale
+  path: /assets/gallery/advent_spiral/
   images:
-  - name: image-1.jpg
-    thumb: thumb-1.jpg
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
     text:
-  - name: image-2.jpg
-    thumb: thumb-2.jpg
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
     text:
-  - name: image-3.jpg
-    thumb: thumb-3.jpg
-    text:
-  - name: image-4.jpg
-    thumb: thumb-4.jpg
-    text:
-  - name: image-5.jpg
-    thumb: thumb-5.jpg
-    text:
-  - name: image-6.jpg
-    thumb: thumb-6.jpg
-    text:
-     
-     
-- id: g2
-  title: Bubble
-  path: /assets/gallery/gallery1/
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+
+- id: english_river
+  title: Englishman river falls
+  path: /assets/gallery/english_river/
   images:
-  - name: image-1.jpg
-    thumb: thumb-1.jpg
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
     text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+  - name: image-08.jpg
+    thumb: thumbnail-08.jpg
+    text:
+  - name: image-09.jpg
+    thumb: thumbnail-09.jpg
+    text:
+  - name: image-10.jpg
+    thumb: thumbnail-10.jpg
+    text:
+  - name: image-11.jpg
+    thumb: thumbnail-11.jpg
+    text:
+  - name: image-12.jpg
+    thumb: thumbnail-12.jpg
+    text:
+  - name: image-13.jpg
+    thumb: thumbnail-13.jpg
+    text:
+  - name: image-14.jpg
+    thumb: thumbnail-14.jpg
+    text:
+
+- id: ucluelet
+  title: Ucluelet
+  path: /assets/gallery/ucluelet/
+  images:
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
+    text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+  - name: image-08.jpg
+    thumb: thumbnail-08.jpg
+    text:
+  - name: image-09.jpg
+    thumb: thumbnail-09.jpg
+    text:
+  - name: image-10.jpg
+    thumb: thumbnail-10.jpg
+    text:
+  - name: image-11.jpg
+    thumb: thumbnail-11.jpg
+    text:
+  - name: image-12.jpg
+    thumb: thumbnail-12.jpg
+    text:
+  - name: image-13.jpg
+    thumb: thumbnail-13.jpg
+    text:
+  - name: image-14.jpg
+    thumb: thumbnail-14.jpg
+    text:
+  - name: image-15.jpg
+    thumb: thumbnail-15.jpg
+    text:
+  - name: image-16.jpg
+    thumb: thumbnail-16.jpg
+    text:
+  - name: image-17.jpg
+    thumb: thumbnail-17.jpg
+    text:
+  - name: image-18.jpg
+    thumb: thumbnail-18.jpg
+    text:
+  - name: image-19.jpg
+    thumb: thumbnail-19.jpg
+    text:
+  - name: image-20.jpg
+    thumb: thumbnail-20.jpg
+    text:
+  - name: image-21.jpg
+    thumb: thumbnail-21.jpg
+    text:
+  - name: image-22.jpg
+    thumb: thumbnail-22.jpg
+    text:
+  - name: image-23.jpg
+    thumb: thumbnail-23.jpg
+    text:
+  - name: image-24.jpg
+    thumb: thumbnail-24.jpg
+    text:
+  - name: image-25.jpg
+    thumb: thumbnail-25.jpg
+    text:
+  
+- id: wildlife
+  title: Wildlife Recovery Center
+  path: /assets/gallery/wildlife/
+  images:
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
+    text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+  - name: image-08.jpg
+    thumb: thumbnail-08.jpg
+    text:
+
+
+
+- id: first_impressions
+  title: Erste Eindrücke
+  path: /assets/gallery/first_impressions/
+  images:
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
+    text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+  - name: image-08.jpg
+    thumb: thumbnail-08.jpg
+    text:
+  - name: image-09.jpg
+    thumb: thumbnail-09.jpg
+    text:
+  - name: image-10.jpg
+    thumb: thumbnail-10.jpg
+    text:
+
