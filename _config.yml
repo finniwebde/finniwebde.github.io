@@ -4,9 +4,9 @@ email: mail@finniweb.com
 description: >
   My voluntary year in Canada...
   On this blog I document my time in Canada and...
-subtitle: SOZIALES JAHR IN CANADA
+subtitle: VOLUNTARY SOCIAL YEAR IN CANADA
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://finniweb.de" # the base hostname & protocol for your site
+url: "http://finniweb.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
