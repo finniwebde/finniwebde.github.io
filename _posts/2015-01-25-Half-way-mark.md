@@ -1,40 +1,41 @@
 ---
 layout: post
-title: Half way mark
+title: Halbzeit
 date: 2015-01-25
 ---
 
-Hello everybody!
-We have completed the second week of the second term. Not much has happened since I wrote last. I realized I have never actually told you much about my work! So before I start apologizing again I’ll just give you a quick catch up…
+Hallo,
+
+Die zweite Woche nach den Ferien ist bereits vorüber. Es hat sich nicht viel geändert aber, als ich über die Kleinigkeiten, die sich geändert haben, schreiben wollte, habe ich mich erinnert, dass ich noch nicht viel über meine Arbeit erzählt habe! Bevor ich aber wieder anfange Erklärungen zu finden gebe ich euch einfach einen kleinen Einblick!
 
 <!--more-->
 
-I am working from 8:30am until 3 o’clock in the afternoon! Except for Fridays when we end at half past 12.  
-Every day I usually help in either the Preschool or the Kindergarten and teach all of the other grades in German or Games. So I am pretty much everywhere every day and obviously right in the middle of most of what is happening. That is not very difficult anyways because the school has only about 30 students in total!
+Ich arbeite von 8:30 - 15:00 Uhr. Außer an Freitagen wo wir schon um 12:30 fertig sind.  
+Jeden Tag helfe ich entweder in der Vorschule oder dem Kindergarten und unterrichte alle anderen Klassen in entweder Deutsch oder “Games” (vergleichbar mit Spielturnen in deutschen Waldorfschulen). Ich bin also jeden Tag fast überall und natürlich immer mitten drin. Das ist allerdings auch nicht ganz so schwer bei nur ca 30 Schülern insgesamt!
 
-On Monday and Wednesday mornings I help out in the Preschool. I prepare snack and do whatever there is to do! After a couple of weeks the Preschool teacher and I have become a pretty good team and things usually work quite smoothly. (Not to mention that there are only four children ages 3 to 4 in the class).  
-After the kids “graduate” from Preschool they go to Kindergarten. Because they are close in age the Preschool and Kindergarten classes often join together for field trips or on Fridays.
+Montag und Mittwoch morgens helfe ich in der Vorschule. Ich bereite den “snack” vor und erledige alles was sonst noch zu tun ist. Nach ein paar Wochen sind die “Vorschullehrherrin” und ich ein eingespieltes team geworden und die dinge laufen relativ problemlos. (Das kommt natürlich auch ein bisschen daher, dass wir bisher nur 3 Schüler, jetzt 4 Schüler im Alter von 3 bis 4 hatten/haben)  
+Die älteren Kinder gehen in den Kindergarten. Da die Altersgruppen noch relativ nah bei einander liegen, unternehmen die Vorschulgruppe und der Kindergarten of Ausflüge zusammen und verbringen den kurzen Freitag zusammen.
 
-On Tuesday’s and Thursday’s after the daily morning walk (with the older kids), I start out helping with math in Grades 3-5.* Since last week the class has been split in half for math only so that I teach the younger ones (currently devision) while the older kids learn advanced math with the class teacher.  
-We are planning on replacing the morning walks on those 2 days with a morning run (led by me) because most of the kids are very active throughout the day and will probably benefit from burning more energy in the morning.  
-Then I join the Kindergarten and eat snack with the kids before we go outside to play. That gives the Kindergarten teacher a little break on at least two of the weekdays.  
-It is of course easier said than done. Before snack we have to tidy up the room and get everybody to help (usually the biggest hassle).  
-Afterwards we have a little nap and then go to wash our hands for snack. Snacktime works out very well most of the time although the kids need constant reminding to stay at the table and eat their food.  
-Towards the end of snack we all make little nests with our hands for “Poppy Bird”, (hopefully spelled right… but then again it doesn’t really matter does it?) a little felted purple bird tied to a string. I then fly Poppy Bird around the table to sit in everybody’s nest and the bird gives one child a kiss. The kissed child is then allowed to snuff out the candle accompanied by a little song sung by everybody. That of course is often connected with unfulfilled expectations and little jealousies because Poppy Bird can only kiss one child per day.
+Dienstags und Donnerstags nach dem täglichen, morgendlichen Spaziergang (für die älteren Kinder) Helfe ich in Mathematik in der Klasse 3,4,5.*  
+Seit letzter Woche werden die drei Klassenstufen für Mathematik in zwei Gruppen geteilt, sodass ich die jüngeren unterrichte (im Moment Division), während die älteren Fortgeschrittene Mathematik mit der Klassenlehrerin lernen.  
+Im moment planen wir die Spaziergänge an diesen zwei Tagen mit einem morgendlichen Dauerlauf (mit mir als Sportlehrer) zu ersetzen. Die meisten Kinder sind sehr aktiv und unsere Hoffnung ist, dass es ihnen dadurch leichter fallen wird im Unterricht zu zu hören und weniger rum zu hampeln.
 
-Then comes the logistical challenge of getting the table gnomes to clear and clean the table, the water washers to wash the dishes and the sweeping sprites to sweep, preferably at the same time and without me heaving to chase any of them.  
-When everybody is done their tasks we head outside for some outdoor play time!
+Danach übernehme ich die Kindergarten Gruppe, was der Kindergartenbetreuerin eine kleine Pause an wenigstens 2 der Wochentagen gibt. Wir essen “snack” bevor wir nach draußen zum spielen gehen.  
+Das ist leichter gesagt (oder geschrieben) als getan. Bevor wir essen können müssen wir erstmal die Spielzeuge aufräumen und am besten alle mithelfen. (das letzte ist meistens das Problem)
+Danach halten wir ein kurzes Nickerchen und gehen unsere Hände waschen. Das essen an sich klappt meistens ziemlich gut, solange ich regelmäßig daran erinnere am Tisch sitzen zu bleiben, zu essen, etc.  
+Gegen ende machen wir alle ein Nest mit unseren Händen für “Poppy bird”, (hoffentlich richtig geschrieben… ist aber nicht so wichtig oder?) ein kleiner, gefilzter Vogel, der an einem Band hängt. Der Vogel fliegt dann (von mir gesteuert) um den Tisch und sitzt in jedem der nester. Einem der Kinder gibt er jedoch einen kleinen Kuss und erlaubt im damit die Kerze auszulöschen. Das ist natürlich meistens mit unerfüllten Hoffnungen und Enttäuschung einiger der nicht geküssten Kinder verbunden.  
+Danach kommt der Teil, der am schwierigsten ist: Die “table gnomes” (Tisch Wichtel) sollen den Tisch abräumen und sauber machen, die “water washer” (Wasserspüler) den abwasch erledigen und die “sweeping sprites” (Fege feen) den Raum fegen. Möglichst zur gleichen zeit und ohne dass ich jemanden suchen oder fangen gehen muss.  
+Wenn alle fertig sind keinen wir endlich nach draußen und die aufgestaute Energie verbrennen!
+Es macht wirklich spass mit den “kleinen Kindern”. Trotzdem sie oft Probleme mit Teilen und Abwechseln zu haben scheinen, spielen sie die meiste Zeit sehr gut zusammen, je mehr Kinder es sind, desto besser klappt alles.  
+Alle scheinen mich zu mögen und sind immer noch in dem alter, wo sie dass auch offen zeigen! Es ist immer wieder eine der schönsten Erfahrungen, wenn ich den Raum betrete und die meisten ihr spielen kurz unterbrechen um mich zu umarmen zu kommen oder alle laut wissen zu lassen: “FINN IST HIER!”
 
-I really enjoy being with the “little” kids. Though they seem to often have problems with sharing or taking turns, most of the time they play very well together, which has improved as more children have joined the class.  
-They all seem to like me well and they are still at the age where they show their feelings openly! It is a great experience and often brightens my day when I enter the room and most of them interrupt their play to greet me with a hug or to let everybody know “FINN IS HERE”!
+Das sind meine Vormittage. Am Nachmittag unterrichte ich abwechselnd Deutsch und Games in allen der Schulklassen. Dass lasse ich aber für einen andern Tag.
 
-Those are my mornings.
-In the afternoon I alternate between Games and German with all the other classes. But I’ll leave that for another day.
+Eine Sache wollte ich aber noch erwähnen. Vor Weihnachten haben wir die “Advent spiral” gebaut. Ich konnte mich fast nicht mehr erinnern, dass ich das schon mal selbst im Kindergarten gemacht habe.  
+Die Spirale ist aus Tannenzweigen auf den Boden gelegt und in der Mitte steht eine große Kerze. Die Kinder gehen langsam, mit einer Kerze und einem Apfel als Kerzenhalter, in die Spirale hinein. Dort zünden sie ihre Kerze an der großen Kerze an und stellen diese entlang der Spirale auf.  
+Das ganze findet in Dunkelheit und stille statt. Einzig leise, ruhige, weihnachtliche Musik wird (natürlich live) gespielt.
+Es war wunderschön… hinterher habe ich ein ein paar Fotos gemacht und der Galerie hinzu gefügt, damit ihr euch das selbst angucken könnt.
 
-One more thing I wanted to mention though.
-Before Christmas we did a beautiful Advent Spiral. I had almost forgotten that I had done something like that while I was in Kindergarten myself.  
-The Advent Spiral is made out of fir branches and in the middle there is a big candle.  
-The children walk through slowly and calmly, following the spiral holding a candle placed into an apple functioning as a candle holder. In the middle they light their candle and then place the apple along the spiral on the next free spot. The whole event takes place in darkness and silence accompanied by some calm and quiet music.  
-It was marvellous… I took some pictures afterwards and put them into the gallery for you to see yourselves!
+* Da die Morning Glory School nur eine kleine Schule ist, sind die Klassen 1&2, 3,4,5 und 6,7,8 zusammen gelegt. Es gibt also drei verschieden Klassenräume, die Vorschule und den Kindergarten.
 
-* Since Morning Glory School is only a small school, grades 1&2 are joined together as well as grades 3,4&5 and 6,7&8.
+ 

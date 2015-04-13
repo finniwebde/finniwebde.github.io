@@ -1,27 +1,26 @@
 ---
 layout: post
-title: finniweb is online
+title: finniweb ist online
 date: 2014-08-10
 ---
 
-Finally the coding is done and the blog is ready for action!  
-I will continue to upgrade the website by adding features you’re hopefully not missing until they are there…!
+Endlich ist es geschafft und der Blog ist eingerichtet!  
+Ich werde weiter daran arbeiten und neue Funktionen hinzufügen deren Fehlen (bis es sie gibt) hoffentlich Niemandem auffällt!  
+Da ich am Dienstag auf das Vorbereitungsseminar fahre bin ich also gerade rechtzeitig damit fertig geworden!
 
-Since I’m going to visit the (lets call it) preparation camp for my social year on Tuesday it is just in time!  
 <!--more-->
-On this website there are some cool features I’m very proud of.  You might not realize them when visiting… thats why I’m listing them below! 
- 
-First of all it is a responsive site! that means you can display it correctly with any device without making the content look ridiculous! (try resizing your browser window horizontally and you’ll see!)
- 
-Secondly finniweb is bilingual which is great (check out the german version at [www.finniweb.de](http://www.finniweb.de))  
 
-And third: the search function may not be as precise or user oriented as google but it gets the job done (one of the features you weren’t supposed to miss until there…) but the cool part of it is the search bar itself and it’s behaviour (you should definitely check it out! just click it!)
+Diese Webseite hat einige coole Funktionen, auf die ich sehr stolz bin. Weil du vielleicht nicht darauf stößt hab ich sie unten aufgeführt!  
+Erstens ist es eine „responsive site!”. Das heißt sie zeigt den Inhalt auf allen Geräten korrekt an ohne dabei den Inhalt merkwürdig aussehen zu lassen! (probier es aus, indem du dein Browserfenster horizontal vergrößerst und verkleinerst.)  
+Zum zweiten ist finniweb zweisprachig, das finde ich ziemlich cool (die englische Version gibt es unter [www.finniweb.com](www.finniweb.com))  
+Und als drittes: Die Suchfunktion ist vielleicht nicht so genau und benutzerorientiert wie Google, aber sie sucht (eine der Funktionen, die ihr nicht vermissen solltet bis ich sie eingebaut habe.... )! Aber der coole Teil ist die Suchleiste selbst und ihr Verhalten. (Du solltest sie auf jeden Fall einmal anklicken!)
 
-You may or may not experience some minor mistakes on this website! I hope I found and fixed them all but there is always something to do… (especially Firefox gave me a hard time)!  
-I’ve run and tested this site with the Browsers Safari, Firefox, Google Chrome and Opera as well as the mobile iOS versions of Safari! If you happen to use Internet Explorer (especially versions before IE9)  you probably will encounter a lot of problems and graphically wrong aligned content since I didn’t test my site with it (due to it’s versions only run on windows). In that case you might want to upgrade to a different browser anyway!!
+Es kann gut passieren, dass du noch über einige Fehler und sogenannte "Bugs"  stolpern wirst! Ich hoffe zwar, dass ich alle gefunden habe aber es gibt immer irgendetwas... (besonders Firefox hat mir eine Menge Probleme bereitet!)
 
-So if you encounter any problems or have any suggestions please let me me know about by [mailing me at support@finniweb.com](support@finniweb.com)
+Ich habe diese Seite mit den Browsern Safari, Firefox, Google Chrome and Opera, sowie mit den mobilen iOS Versionen von Safari, getestet! Solltest du Internet Explorer (besonders die Versionen vor IE9) nutzen, wirst du sehr wahrscheinlich auf eine Menge Fehler stoßen! Ich habe diese Seite nämlich nicht damit getestet (hauptsächlich weil es nur auf Windows läuft). In diesem Fall solltest du sowieso versuchen einen anderen browser zu nutzen!!
 
-I hope you enjoy my site,
+Solltest du also auf Fehler stoßen, oder hast du Vorschläge, lass es mich wissen und schreibe eine email an [support@finniweb.de](mailto:support@finniweb.de)
+
+Ich hoffe euch gefällt meine Seite,
 
 finni

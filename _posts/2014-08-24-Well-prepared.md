@@ -1,10 +1,15 @@
 ---
 layout: post
-title: Well prepared
+title: Gut Vorbereitet
 date: 2014-08-24
 ---
 
-During the last two weeks I were at the preparation seminar for my “Volutary Year Abroad”! The seminar definitely overcame my expectations!  
+In den letzten zwei Wochen war ich auf dem Vorbereitungsseminar für mein ‘Freies Jahr im Ausland’. Das Seminar hat dabei alle meine Erwartungen übertroffen.
 <!--more-->
-Starting with a group of more than 50 participants we were separated into two smaller groups though we still did many activities as the big group. Under those 50 participants I only met great people. Despite the difficulties of getting to know over 50 people in just 9 days I became friends with most! In addition to the great Activities there were some discourses and workshops which taught me lots of new stuff and depend other knowledge of mine. Trough feedback exercises in which we were practicing criticising and to handle critic from others I also became more self-confident. Though I can say that I didn’t have much anxieties regarding my voluntary year I came back more self-assured like I got rid of anxieties I wasn’t even aware of.
-Like most of us I would have wished to depart from there right away but my last few days in Hamburg are pretty much full anyway....
+
+Aus der 50 Teilnehmer starken Gruppe wurden 2 kleinere Gruppen, wobei wir viele Aktivitäten in der großen Gruppe machten!
+Unter all den Teilnehmern und den Anleitern habe ich nur tolle Leute kennen gelernt. Trotzdem es schwierig ist in 9 Tagen über 50 Leute kennen zu lernen sind die meisten zu meinen Freunden geworden!  
+Zu den vielen tollen Aktionen gab es einige Vorträge bzw. Workshops in denen ich einige neue Dinge lernte und vorhandenes Wissen vertiefen konnte.  
+Durch Übungen wie “Feedback Runden”, in denen wir übten andere zu Kritisieren bzw. Kritik von anderen anzunehmen, erhielt ich ein stärkeres Vertrauen in mich selbst.  
+Auch wenn ich behaupten kann, dass ich vor dem Seminar ohne viele Ängste in Bezug auf mein “Freiwilligen Jahr” war, so kam ich doch mit einem stärkeren Zutrauen zurück, als wenn ich dort Ängste zurück Gelassen hätte, derer ich mir vorher noch nicht bewusst war.  
+Wie die meisten hätte ich mir fast gewünscht von dort aus direkt zu starten, doch meine letzten Tage in Hamburg sind sowieso sehr voll gepackt...

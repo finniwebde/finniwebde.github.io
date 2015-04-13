@@ -294,6 +294,13 @@ a {
   .page .content-page {
     font-size: 1.4em;
     margin-top: 1em; }
+    .page .content-page a {
+      color: #38b499; }
+      .page .content-page a:hover {
+        color: #40cdaf;
+        text-decoration: underline; }
+    .page .content-page p {
+      margin: 1em 0; }
 
 /* Preload images */
 body:after {

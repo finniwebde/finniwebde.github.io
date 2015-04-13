@@ -1,26 +1,31 @@
 ---
 layout: post
-title: Entry into Canada
+title: Einreise nach Kanada
 date: 2014-09-01
 ---
 
-Finally I managed to publish this post! A big THANK YOU to those of you patiently waiting.
-My voyage here was a little adventure. It all started at Hamburg airport from where I was taking the flight to Munich and from there to Toronto!  
-It took nine hours to get to Toronto and it was a smooth flight! However with my arrival in Toronto trouble startet!
+Endlich habe ich es geschafft diesen Post zu schreiben! VIELEN DANK an alle, die geduldig gewartet haben.  
+Meine Reise hierher war ein kleines Abenteuer. Am Flughafen Hamburg ging es los.  
+Von hier aus nahm ich den Flug nach München und von dort flog ich weiter nach Toronto.  
+Es dauerte neun Stunden bis nach Toronto zu fliegen, aber der Flug war sehr angenehm! Doch als ich in Toronto ankam, begannen die Probleme!
 
 <!--more-->
 
 ![my image](/assets/image/leaving.jpg)
 
-Because I had to get my luggage from the baggage claim and check it in again I had to leave the security area! In order to do that I had to get to the immigration office to get my Visa printed into my passport!  
-It took me 2 hours to wait in the line and in that time not only my connecting flight but also the next flight to Victoria had already departed. This left me with two choices. Either to wait until next morning and take the first flight to Victoria or to go on standby for a flight to Vancouver and fly over from there the next morning!  
-I chose to stay in Toronto for the night and finally managed to inform someone that I wouldn’t show up in Victoria until morning.  
-But the Adventure didn’t end yet! Arriving in Victoria I had to get to Nanaimo by bus because everyone was working and not able to pick me up! So I hitchhiked from the Airport into town to take the bus. There I had to trick the ticket seller by slightly lifting up my luggage to make it look like it weights 2 pounds less on the scale than it did.
-In Nanaimo I had to wait a little more and then I finally - after a sleepless 48 hours trip - met my “new family” Mickey and her lovely son Eli (six years old) and got taken into my new home!  
-The funny thing about my trip is that I tricked the jet lag  by not sleeping at all…    
-The next day I was invited to the first staff meeting of the school in which I’ll be teaching the next year and I met the other teachers!  
-The rest of the time I was busy getting comfortable in my new surrounding! Being here is overwhelming! I’ve seen deer just walking beside the car and blocking the road. The landscape is fantastic and we are living at the end of the nice and not too small town, Qualicum Beach.
+Um meinen Koffer aus der Rückgabe zu holen und für den Flug nach Victoria neu ein-zu-checken, musste ich die Sicherheitszone verlassen. Dafür musste ich zum “Immigrations Büro”, um mein Visum in den Reisepass gestempelt zu bekommen.  
+Es dauerte 2 Stunden, bis ich an die Reihe kam. In dieser Zeit war nicht nur mein Anschlussflug nach Victoria bereits abgeflogen, sondern auch der folgende Flug nach Victoria! Ich hatte also zwei Möglichkeiten. Entweder, den ersten Flug am nächsten Morgen zu nehmen, oder als “standby” auf den Flug nach Vancouver zu warten und am nächsten Morgen nach Victoria geflogen zu werden.  
+Ich entschied mich die Nacht in Toronto zu verbringen und konnte endlich jemand informieren, dass ich erst am nächsten Morgen ankommen würde.  
+Aber das Abenteuer war noch nicht zu ende! Als ich in Victoria ankam musste ich einen Bus nach Nanaimo nehmen, da alle arbeiten mussten und mich nicht abholen konnten. Also fuhr ich per Anhalter vom Flughafen in die Stadt.  
+Dort musste ich noch den Ticketverkäufer austricksen, indem ich meinen Koffer leicht anhob, um mein Gepäck auf der Wage, 2 pounds (weniger als 1 kg) leichter wirken zu lassen.  
+In Nanaimo musste ich noch ein bisschen warten, bis ich endlich - nach einem schlaflosen 48 stunden Trip - meine “neue Familie” Mickey und ihren tollen Sohn Eli (sechs Jahre alt) und mein neues Zuhause, kennen lernte!  
+Das beste ist, das ich den Jetlag ausgetrickst habe, indem ich einfach gar nicht geschlafen habe…  
+Am nächsten Morgen war ich zur ersten Besprechung der Schule, an der ich unterrichten werde, eigeladen und lernte die anderen Lehrer kennen!  
+Den Rest der Zeit war ich damit beschäftigt mich an mein neues Umfeld zu gewöhnen!
 
-Tomorrow will be my first day at work! I’m excited to see how it will go!
+Hier zu sein ist überwältigend!
+Ich habe Rehe gesehen, die einfach neben dem Auto her liefen und die Straße vor mir blockierten. Die Landschaft ist fantastisch und wir leben am Rand einer netten nicht zu kleinen Kleinstadt “Qualicum Beach”!
 
-I’ll try to report back soon with new updates, so stay tuned until then!
+Morgen werde ich meinen ersten Tag an der Schule haben! Ich bin gespannt wie es wird!
+
+Ich werde versuchen mich bald mit neuen Eindrücken zu melden, bis dahin…
