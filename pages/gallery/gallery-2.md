@@ -9,7 +9,7 @@ permalink: /gallery-2/
 	
 	{% for gallery in site.data.galleries %}
 	  	
-	  	{% if gallery.id <3 and gallery.id >= 1 %}
+	  	{% if gallery.id <= 6 and gallery.id > 3 %}
 	  	
 	  	<div class="album">
 		    <header class="header-page">
@@ -39,12 +39,8 @@ permalink: /gallery-2/
 		</div>
 
 
-		<!--<div class="right">
-			<a href="{{ site.baseurl }}/gallery-3" class="button-pagination button">next</a>
-		</div>-->
-		
 		<div class="right">
-			<span class="button button-disabled button-pagination">next</span>  
+			<a href="{{ site.baseurl }}/gallery-3" class="button-pagination button">next</a>
 		</div>
 
 </div>

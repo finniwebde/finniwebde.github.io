@@ -4,9 +4,9 @@ title: Halbjahres Bericht
 date: 2015-02-15
 ---
 
-In den letzten Wochen haben wir uns mit den Bewerbungen, für meine Nachfolge an der Morning Glory School, befasst. Es war spannend für mich, auf der anderen Seite eines Bewerbungs-verfahrens zu sein.  
+In den letzten Wochen haben wir uns mit den Bewerbungen, für meine Nachfolge an der Morning Glory School, befasst. Es war spannend für mich, auf der anderen Seite eines Bewerbungsverfahrens zu sein.
 Zusammen mit der Auflage meines Trägervereines, einen Halbjahresbericht zu verfassen, hat es mir aber auch noch einmal deutlich gemacht, wie schnell die Zeit vorbei gegangen ist und wie begrenzt meine verbleibende Zeit, hier in Kannada, ist...
-Hier ist mein Halbjahresbericht für euch zum mitlesen:
+Hier ist mein Halbjahresbericht für euch zum Mitlesen:
 
 <!--more-->
 

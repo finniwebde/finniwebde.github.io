@@ -1,3 +1,170 @@
+- id: 9
+  title: Früh am Morgen
+  path: /assets/gallery/sunrise/
+  images:
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
+    text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+  - name: image-08.jpg
+    thumb: thumbnail-08.jpg
+    text:
+  - name: image-09.jpg
+    thumb: thumbnail-09.jpg
+    text:
+  - name: image-10.jpg
+    thumb: thumbnail-10.jpg
+    text:
+  - name: image-11.jpg
+    thumb: thumbnail-11.jpg
+    text:
+  - name: image-12.jpg
+    thumb: thumbnail-12.jpg
+    text:
+  - name: image-13.jpg
+    thumb: thumbnail-13.jpg
+    text:
+  - name: image-14.jpg
+    thumb: thumbnail-14.jpg
+    text:
+  - name: image-15.jpg
+    thumb: thumbnail-15.jpg
+    text:
+
+- id: 8
+  title: Adler
+  path: /assets/gallery/eagles/
+  images:
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
+    text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+
+- id: 7
+  title: Fischen
+  path: /assets/gallery/fishing/
+  images:
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
+    text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+  - name: image-08.jpg
+    thumb: thumbnail-08.jpg
+    text:
+  - name: image-09.jpg
+    thumb: thumbnail-09.jpg
+    text:
+  - name: image-10.jpg
+    thumb: thumbnail-10.jpg
+    text:
+  - name: image-11.jpg
+    thumb: thumbnail-11.jpg
+    text:
+  - name: image-12.jpg
+    thumb: thumbnail-12.jpg
+    text:
+  - name: image-13.jpg
+    thumb: thumbnail-13.jpg
+    text:
+  - name: image-14.jpg
+    thumb: thumbnail-14.jpg
+    text:
+    
+- id: 6
+  title: Cape Scott
+  path: /assets/gallery/cape_scott/
+  images:
+  - name: image-01.jpg
+    thumb: thumbnail-01.jpg
+    text:
+  - name: image-02.jpg
+    thumb: thumbnail-02.jpg
+    text:
+  - name: image-03.jpg
+    thumb: thumbnail-03.jpg
+    text:
+  - name: image-04.jpg
+    thumb: thumbnail-04.jpg
+    text:
+  - name: image-05.jpg
+    thumb: thumbnail-05.jpg
+    text:
+  - name: image-06.jpg
+    thumb: thumbnail-06.jpg
+    text:
+  - name: image-07.jpg
+    thumb: thumbnail-07.jpg
+    text:
+  - name: image-08.jpg
+    thumb: thumbnail-08.jpg
+    text:
+  - name: image-09.jpg
+    thumb: thumbnail-09.jpg
+    text:
+  - name: image-10.jpg
+    thumb: thumbnail-10.jpg
+    text:
+  - name: image-11.jpg
+    thumb: thumbnail-11.jpg
+    text:
+  - name: image-12.jpg
+    thumb: thumbnail-12.jpg
+    text:
+  - name: image-13.jpg
+    thumb: thumbnail-13.jpg
+    text:
+
 - id: 5
   title: advent spiral
   path: /assets/gallery/advent_spiral/

@@ -10,7 +10,7 @@ permalink: /gallery/
 	
 	{% for gallery in site.data.galleries %}
 	  	
-	  	{% if gallery.id >= 3  %}
+	  	{% if gallery.id <= 9 and gallery.id > 6 %}
 	  	
 	  	<div class="album">
 		    <header class="header-page">
