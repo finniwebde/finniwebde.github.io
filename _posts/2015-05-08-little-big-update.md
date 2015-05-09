@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kleines, großes Update
+title: kleines, grosses Update
 date: 2015-05-08
 ---
 
